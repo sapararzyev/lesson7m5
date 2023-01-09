@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lesson7m5</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="result">Result</string>
+    <string name="pius">pius</string>
+    <string name="minus">minus</string>
+    <string name="r">/</string>
+    <string name="d">*</string>
+</resources>
